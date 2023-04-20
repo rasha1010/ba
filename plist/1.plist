@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn.i3rby.com/out/unc0verSigned.ipa</string>
+					<string>https://cdn.i3rby.com/out/unc0ver_6.0.1Signed.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.6XJ4z73.outunc0verSignedipa</string>
+				<string>com.trWLe77.outunc0ver601Signedipa</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>unc0ver ari</string>
+				<string>unc0ver Ari</string>
 				<key>title</key>
-				<string>unc0ver ari</string>
+				<string>unc0ver Ari</string>
 			</dict>
 		</dict>
 	</array>
