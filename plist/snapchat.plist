@@ -12,7 +12,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>https://file.ipaomtk.com/signed/pubg-Global.ipa</string>
+     <string>https://file.ipaomtk.com/signed/Snapchat.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <string>com.tencent.igxonew</string>
+    <string>com.toyopagroup.picaboo</string>
     <key>bundle-version</key>
     <string>0</string>
     <key>kind</key>
@@ -38,7 +38,7 @@
     <key>platform-identifier</key>
     <string>com.apple.platform.iphoneos</string>
     <key>title</key>
-    <string>pubg-Global</string>
+    <string>Snapchat Ari </string>
    </dict>
   </dict>
  </array>
